@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NavigationActivity</string>
+    <string name="btn_back">Kembali</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_cancel">Batal</string>
+    <string name="vanilla">Vanila</string>
+    <string name="lemon">Lemon</string>
+    <string name="natural">Natural</string>
+    <string name="milk">Milky</string>
+    <string name="lychee">Lychee</string>
+    <string name="order_summary">Ringkasan Order</string>
+    <string name="send">Send Order To Another App</string>
+    <string name="quantity">quantity</string>
+    <string name="flavour">Rasa</string>
+    <string name="subtotal_price">Sub Total : Rp</string>
+    <string name="total_price">Total %s</string>
+</resources>
